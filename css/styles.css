@@ -266,6 +266,7 @@ a:hover {
     line-height: 1.5;
 }
 
+/* TEAM SECTION */
 .team-section {
     padding: 120px 0;
     background-color: #F4F4FD;
@@ -342,6 +343,7 @@ a:hover {
     color: #434455;
     text-align: center;
 }
+
 
 /* Portfolio Section */
 .portfolio-container {
